@@ -1,0 +1,54 @@
+============================================
+2015/8/23 18:47:48
+============================================
+
+ReadyToScan st_connectAndroidCount = 1
+ReadytoScan success , disk count=0
+pinfo->Device_Name=samsung
+
+pinfo->Serial_Number=532516a0
+pinfo->Device_Mode=GT-I9300I
+
+pinfo->Andriod_Version=4.4.4
+
+pinfo->SDK_Version=KTU84P.I9300IDDUBNK2
+
+pinfo->Phone_SIMNumber=
+pinfo->Device_SIMOperatorName=
+sms error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.android.providers.telephony/databases/mmssms.db
+g_currentscandiskCount = 0
+g_scan_flags_enable_audio = 0
+g_scan_flags_enable_video = 0
+g_scan_flags_enable_image = 0
+g_scan_flags_enable_document = 0
+Contact error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.android.providers.contacts/databases/contacts2.db
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+USB Remove 1 
+USB Remove 1 
+USB Remove 1 
+USB Remove
+usbConnectOrRemove_CallBack st_connectAndroidCount = 0
+ReadyToScan st_connectAndroidCount = 1
+ReadytoScan success , disk count=0
+pinfo->Device_Name=samsung
+
+pinfo->Serial_Number=532516a0
+pinfo->Device_Mode=GT-I9300I
+
+pinfo->Andriod_Version=4.4.4
+
+pinfo->SDK_Version=KTU84P.I9300IDDUBNK2
+
+pinfo->Phone_SIMNumber=
+pinfo->Device_SIMOperatorName=
+sms error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.android.providers.telephony/databases/mmssms.db
+g_currentscandiskCount = 0
+g_scan_flags_enable_audio = 1
+g_scan_flags_enable_video = 1
+g_scan_flags_enable_image = 1
+g_scan_flags_enable_document = 1
+Contact error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.android.providers.contacts/databases/contacts2.db
+whatsapp wa error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.whatsapp/databases/wa.db
+whatsapp msgstore error:can not exist C:/Users/JEETEN~1/AppData/Local/Temp/Temp_androidrc/532516a0/com.whatsapp/databases/msgstore.db
